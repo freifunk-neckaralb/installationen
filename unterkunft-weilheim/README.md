@@ -4,10 +4,10 @@
 Die Unterkunft besteht aus zwei zweistöckigen Häusern am Stadtrand von Weilheim. Da es vor Ort kein Unitymedia gibt und die Telekom nicht bezahlbar ist, muss die Unterkunft über Richtfunk versorgt werden. 
 
 ## Status
-11.05.2016
-Stefan und Justin haben bereits mehrfach die Richtfunkverbindung erfolgreich getestet. Eine Station in der Südstadt und eine Relaystation auf dem Schloss stehen bereits. es fehlt nur noch die Installation in der Unterkunft selbst.
+### 11.05.2016
+Stefan und Justin haben bereits mehrfach die Richtfunkverbindung erfolgreich getestet. Eine Station in der Südstadt und eine Relaystation auf dem Schloss stehen bereits. Es fehlt nur noch die Installation in der Unterkunft selbst.
 
-Die Genehmigung vom LRA ist da, der Kontakt zum Hausmeister ist hergestellt. Da dieser gerade vertreten wird, ruft Justin morgen nochmal an.
+Die Genehmigung vom LRA ist da, der Kontakt zum Hausmeister ist hergestellt. Da dieser gerade vertreten wird, ruft Justin morgen nochmal an, und fragt, wann man Zugang zu verschlossenen Räumen bekommt, um Geräte aufzustellen.
 
 ## Setup
 
