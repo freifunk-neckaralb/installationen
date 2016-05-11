@@ -1,0 +1,10 @@
+# SSH config für unsere Router. Anscheinend kann man das nicht direkt reinlinken, aber zumindest reincatten
+
+host ffs-Tuebi-Shedhalle-Unifi-1
+ user root
+ hostname fd21:b4dc:4b1e:0:46d9:e7ff:fe7b:c2a9
+
+host ffs-Tuebi-Shedhalle-1043nd-UPLNK
+ user root
+ hostname fd21:b4dc:4b1e:0:c24a:ff:fe40:e6a6
+
