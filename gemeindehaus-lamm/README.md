@@ -7,12 +7,17 @@ Die vier Stockwerke des Gemeindehaus Lamm sollen mit WLAN versorgt werden, sowie
 ### 11.05.2016
 Geld ist bewilligt, es gab schon einige Tests von Stefan und Justin. Bisherige Entscheidung:
 
-* 3OG: Ein 1043 als Offloader neben dem Internetanschluss
-* 2OG: Ein Unifi AP im Jugendraum am Fenster, evtl noch ein Outdoormodell außen für den Marktplatz 
-* 1OG: Ein Unfi AP im Stuhllager neben dem Treppenhaus
-* EG: Ein Unifi AP in der Kaffeeküche
+Alles nur mit 2,4Ghz machen.
 
-Die Geräte sind bestellt.
+* 4.OG: 1xUnifi LP AP möglichst weit oben und diagonal zum 3.OG - Meshen über den Dächern?
+* 3.OG: 1xTP1043nd als Offloader neben dem Internetanschluss
+* 2.OG: 1xUnifi LR AP im Jugendraum am Marktplatzfenster
+* 1.OG: 1xUnifi LR AP im Stuhllager neben dem Treppenhaus
+*   EG: 1xUnifi LR AP in der Kaffeeküche
+
+### 13.05.2016
+Die Geräte sind von Stefan Tzeggai bestellt. 4x Unifi LR, 1x 1043nd
 
 ## Setup
+
 
