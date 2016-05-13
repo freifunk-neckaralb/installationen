@@ -1,10 +1,10 @@
 # Asylcafé Sudhaus
 
 ## Information
-Es soll von einem Heizungsraum aus durch die Wand ein Aufenthaltsraum, sowie ein 40m weit erntfernter Vorplatz versorgt werden. Als Anschlussgrundlage kommt nur UnityMedia in Frage. 
+Es soll ein Aufenthaltsraum, sowie ein 40m weit erntfernter Platz mit Sitzgelegenheiten versorgt werden. Als Anschlussgrundlage kommt nur UnityMedia in Frage. 
 
 ## Status
-Internetanschluss ist bestellt.
+5'2016: Internetanschluss 50MBit ist bestellt.
 
 ### Hardware und Kostenplanung Ensprechend Plaungsmail vom 17.3.16 von alfonx: 
 
