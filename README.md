@@ -9,3 +9,4 @@ Dieses Repo soll eine Übersicht über die Tübinger Installationen geben. Wicht
 * [Gemeindehaus Weilheim](gemeindehaus-weilheim/) Status: Genehmigt
 * [Gemeindehaus Paul-Lechler-Str.](gemeindehaus-paul-lechler-str/) Status: ?
 * [Asylcafé Sudhaus](asylcafe-sudhaus/) Status: ?
+* [Schulungsräume ICFA](Schulungsraeume-ICFA/) Status: UP, aber momentan Störung
