@@ -1,5 +1,6 @@
 # Schulungsräume im Institut Culturel Franco-Allemand (Deutsch-Französches Kulturinstitut)
 
+## Information
 In Zusammenarbeit mit dem [AK-Österberg] (http://www.ak-oesterberg.de) und den 
 [Teachers on the Road] (https://nksnet.wordpress.com/teachers-on-the-road/) wird 
 in den Schulungsräumen im UG des ICFA Sprachunterricht für Flüchtlinge gegeben.
@@ -15,3 +16,14 @@ Verbindung zueinander oder letztendlich doch ein Phasenkoppler zum Einsatz komme
 
 Die Wlan-Abdeckung erstreckt sich auf die 3 Schulungsräume im Untergeschoss sowie eingeschränkt 
 auf den direkt angrenzenden Gartenbereich vor den Räumen.
+
+## Aussicht und Planungen
+
+Der Balkon des Instituts nach Nord-Osten eignet sich hervorragend für Richtfunkverbindungen!
+Da das Institut aber momentan nur über eine 16 MBit-Internet-Anbindung verfügt 
+(Upgrade auf 100 MBit ist bereits in Planung/Vorbereitung) kann die Nachbarschaft leider nicht 
+über diesen Anschluss mit versorgt werden (Shedhalle oder das ehemalige Kunstamt). Sehr wohl ist 
+aber die Installation von Point-to-Multipoint-Antennen möglich.
+
+Mögliche Kandidaten?
+- Ubiquiti NanoBeam AC - NBE-5AC-19
