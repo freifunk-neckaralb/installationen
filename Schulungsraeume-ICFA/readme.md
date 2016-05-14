@@ -1,4 +1,4 @@
-# Schulungsräume im Institut Culturell Franco-Alemand (Deutsch-Französches Kulturinstitut)
+# Schulungsräume im Institut Culturel Franco-Allemand (Deutsch-Französches Kulturinstitut)
 
 In Zusammenarbeit mit dem [AK-Österberg] (http://www.ak-oesterberg.de) und den 
 [Teachers on the Road] (https://nksnet.wordpress.com/teachers-on-the-road/) wird 
