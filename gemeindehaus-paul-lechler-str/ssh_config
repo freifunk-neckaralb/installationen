@@ -1,0 +1,10 @@
+# SSH config für unsere Router. Anscheinend kann man das nicht direkt reinlinken, aber zumindest reincatten
+
+host ffs-Tue-HerrmannDiemHaus-Uplink
+ user root
+ hostname fd21:b4dc:4b02:0:f6f2:6dff:fe3e:9ffe 
+
+host ffs-Tue-HerrmannDiemHaus-Unifi
+ user root
+ hostname fd21:b4dc:4b02:0:46d9:e7ff:fec7:82d9
+
