@@ -40,7 +40,7 @@ uci set wireless.client_radio0.disabled=0 # Client Netzwerk ist an
 uci commit wireless
 
 # Mesh on Radio
-uci set wireless.ibss_radio0.disabled='1' #ist aus
+uci set wireless.ibss_radio0.disabled=0 #ist an
 uci commit wireless
 
 # Geolocation
