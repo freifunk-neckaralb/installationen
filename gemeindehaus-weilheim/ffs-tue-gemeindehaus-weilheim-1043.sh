@@ -1,4 +1,5 @@
 # /bin/sh
+# FW version 0.7
 # 1043er als UPLINK / VPN Offloader im Büro
 
 # Hostname
