@@ -10,3 +10,17 @@ Dieses Repo soll eine Übersicht über die Tübinger Installationen geben. Wicht
 * [Gemeindehaus Paul-Lechler-Str.](gemeindehaus-paul-lechler-str/) Status: ?
 * [Asylcafé Sudhaus](asylcafe-sudhaus/) Status: ?
 * [Schulungsräume ICFA](Schulungsraeume-ICFA/) Status: UP, aber momentan Störung
+
+
+# Anleitung um den Durchsatz zu messen
+
+Clientseite:
+```
+cat /dev/zero | pv | nc serverIP port > /dev/null
+```
+
+Serverseite:
+```
+cat /dev/zero | pv | nc -l -p port > /dev/null
+```
+
