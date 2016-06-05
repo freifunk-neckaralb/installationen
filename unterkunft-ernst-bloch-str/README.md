@@ -38,3 +38,7 @@ Dierck, Tobias, Eva und Justin haben vier Geräte montiert. Erfahrungen fürs n�
 Der Empfang war schlechter als gedacht, die APs im linken Haus meshen überhaupt nicht miteinander. Mögliche Verbesserungen:
 * Den Offloader nur als Offloader nehmen und noch einen AP in den Heizungsraum tun. Dann wird evtl die Wohnung rechts unten besser erreicht.
 * Die Nodes ffs-tue-ernst-bloch-unifi-2OGl und ffs-tue-ernst-bloch-unifi-2OGr auf einen anderen Kanal stellen um die Airtime zu verbessern. 
+* Offloader und 2OGr das gegenseitige MeshOnRadio verbieten, da die beiden bereits per Kabel meshen.
+
+Falls alles ganz schlimm ist:
+* Kabel zwischen EGl und 2OGl ziehen, so dass die auch MeshOnLAN machen.
