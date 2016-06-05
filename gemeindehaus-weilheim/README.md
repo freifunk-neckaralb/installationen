@@ -20,6 +20,6 @@ Die Fritzbox im Gemeindehaus hat leider alle Eingänge belegt, deswegen bei der 
 
 ## Setup
 
-* [ffs-tue-gemeindehaus-weilheim-1043](ffs-gemeindehaus-weilheim-1043.sh) Ein 1043 als Offloader im Büro, direkt neben der fritzbox
-* [ffs-tue-gemeindehaus-weilheim-unifi-1](ffs-gemeindehaus-weilheim-unifi-1.sh) Unifi AP LR im Büro des Pfarrers, auf dem linken der drei Fenster waagrecht auf der Fensterbank liegend
-* [ffs-tue-gemeindehaus-weilheim-unifi-2](ffs-gemeindehaus-weilheim-unifi-2.sh) Unifi AP LR im Gemeindehaus mit MeshOnRadio im 1OG in der Decke des rechten Dachfensters festgeklebt.
+* [ffs-tue-gemeindehaus-weilheim-1043](ffs-tue-gemeindehaus-weilheim-1043.sh) Ein 1043 als Offloader im Büro, direkt neben der fritzbox
+* [ffs-tue-gemeindehaus-weilheim-unifi-1](ffs-tue-gemeindehaus-weilheim-unifi-1.sh) Unifi AP LR im Büro des Pfarrers, auf dem linken der drei Fenster waagrecht auf der Fensterbank liegend
+* [ffs-tue-gemeindehaus-weilheim-unifi-2](ffs-tue-gemeindehaus-weilheim-unifi-2.sh) Unifi AP LR im Gemeindehaus mit MeshOnRadio im 1OG in der Decke des rechten Dachfensters festgeklebt.
