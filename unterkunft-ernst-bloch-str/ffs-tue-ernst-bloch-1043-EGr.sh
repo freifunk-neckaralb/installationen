@@ -1,4 +1,4 @@
-# /bin/sh
+#!/bin/sh
 # FW version 0.7
 # 1043er als UPLINK / VPN im Heizungsraum EG rechts
 

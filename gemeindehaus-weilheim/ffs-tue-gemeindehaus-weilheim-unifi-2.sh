@@ -1,4 +1,4 @@
-# /bin/sh
+#!/bin/sh
 # FW version 0.7
 # Unifi AP LR im Gemeindehaus, mesh on radio
 

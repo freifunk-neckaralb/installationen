@@ -1,4 +1,4 @@
-# /bin/sh
+#!/bin/sh
 # FW version 0.7
 # Unifi AP im Heizungsraum EG links
 
