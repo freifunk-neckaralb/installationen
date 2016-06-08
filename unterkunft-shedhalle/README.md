@@ -1,7 +1,7 @@
 # Unterkunft Shedhalle Tübingen
 
 ## Information
-Die Unterkunft ist im Prinzip eine große Halle und wird von 180 Menschen bewohnt. Im Nachbarhaus hat der Verein Shedhalle e.V. ein Büro mit einem Anschluss von Vodaphone (?).
+Die Unterkunft ist im Prinzip eine große Halle und wird von 180 Menschen bewohnt. Im Nachbarhaus hat der Verein Shedhalle e.V. ein Büro mit einem Internetanschluss.
 
 ## Status
 ### 11.05.2016
