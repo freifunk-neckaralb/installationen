@@ -1,4 +1,5 @@
 # /bin/sh
+# FW version 0.7
 
 # Die UNIFI auf dem Dachboden:
 # Mesh-On-Lan mit Unifi. 

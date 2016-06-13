@@ -1,3 +1,6 @@
+#!/bin/sh
+# FW version 0.7
+
 uci set system.@system[0].hostname='ffs-Tue-HerrmannDiemHaus-Unifi'
 
 uci set gluon-node-info.@location[0]='location'
