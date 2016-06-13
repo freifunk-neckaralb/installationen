@@ -5,6 +5,7 @@ Es soll ein Aufenthaltsraum, sowie ein 40m weit erntfernter Platz mit Sitzgelege
 
 ## Status
 5'2016: Internetanschluss 50MBit ist bestellt.
+6'2016: Internetanschluss ist vorhanden!
 
 ### Hardware und Kostenplanung Ensprechend Plaungsmail vom 17.3.16 von alfonx: 
 
