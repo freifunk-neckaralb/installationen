@@ -1,4 +1,7 @@
 #/bin/sh
+
+# ssh fd21:b4dc:4b02:0:c66e:1fff:fe97:7956
+
 uci set system.@system[0].hostname='ffs-Tue-MS48-1043nd-upl
 k'
 

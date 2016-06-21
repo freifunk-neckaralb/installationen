@@ -1,4 +1,7 @@
 #/bin/sh
+
+# ssh fd21:b4dc:4b02:0:c66e:1fff:fee6:d942
+
 uci set system.@system[0].hostname='ffs-Tue-MS48-841n-kche'
 
 uci set gluon-node-info.@location[0]='location'
