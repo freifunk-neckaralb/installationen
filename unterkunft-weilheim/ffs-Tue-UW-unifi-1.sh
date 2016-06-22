@@ -31,8 +31,8 @@ uci set wireless.ibss_radio0.disabled='0' #ist an
 # Geolocation
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
-uci set gluon-node-info.@location[0].latitude='48.517082575876856'
-uci set gluon-node-info.@location[0].longitude='9.04523983600484'
+uci set gluon-node-info.@location[0].latitude='48.498357875'
+uci set gluon-node-info.@location[0].longitude='9.030858278'
 
 # Rebroadcast, empfohlene Einstellung
 uci set network.mesh_wan.mesh_no_rebroadcast='1' #WAN off
