@@ -4,10 +4,10 @@ Dieses Repo soll eine Übersicht über die Tübinger Installationen geben. Wicht
 
 * [Unterkunft Shedhalle Tübingen](unterkunft-shedhalle/) Status: UP
 * [Unterkunft Ernst-Bloch-Str.](unterkunft-ernst-bloch-str/) Status: UP
+* [Unterkunft Weilheim](unterkunft-weilheim/) Status: UP
 * [Gemeindehaus Paul-Lechler-Str.](gemeindehaus-paul-lechler-str/) Status: UP
 * [Gemeindehaus Weilheim](gemeindehaus-weilheim/) Status: UP
 * [Schulungsräume ICFA](Schulungsraeume-ICFA/) Status: UP, aber momentan Störung
-* [Unterkunft Weilheim](unterkunft-weilheim/) Status: Genehmigt, in Aufbau
 * [Gemeindehaus Lamm am Marktplatz](gemeindehaus-lamm/) Status: Genehmigt
 * [Asylcafé Sudhaus](asylcafe-sudhaus/) Status: ?
 
