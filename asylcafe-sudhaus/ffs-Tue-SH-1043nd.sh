@@ -2,7 +2,7 @@
 
 # ssh fd21:b4dc:4b02:0:c66e:1fff:fe97:7956
 
-uci set system.@system[0].hostname='ffs-Tue-MS48-1043nd-uplk'
+uci set system.@system[0].hostname='ffs-Tue-SH-1043nd'
 
 uci set gluon-node-info.@location[0]=location
 uci set gluon-node-info.@location[0].share_location='1'

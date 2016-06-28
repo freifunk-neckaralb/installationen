@@ -1,5 +1,8 @@
 #!/bin/sh
 
+#fd21:711::46d9:e7ff:fedb:e4d
+#fe80::46d9:e7ff:fedb:e4d
+
 # Hostname
 uci set system.@system[0].hostname='ffs-Tue-SH-Unifi-AC'
 
