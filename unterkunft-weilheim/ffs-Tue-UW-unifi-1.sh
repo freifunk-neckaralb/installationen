@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# http://[fd21:b4dc:4b02:0:46d9:e7ff:fecd:6447]/
+
 # Hostname
 uci set system.@system[0].hostname='ffs-Tue-UW-unifi-1'
 
