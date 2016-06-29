@@ -17,4 +17,7 @@ uci set simple-tc.mesh_vpn.limit_egress='1000'
 uci set network.mesh_wan.mesh_no_rebroadcast='0'
 uci set network.mesh_lan.mesh_no_rebroadcast='0'
 
+uci set network.mesh_lan.auto=1 # Mesh-On-LAN zur Pico
+uci set wireless.ibss_radio0.disabled=1 
+
 uci commit && reboot
