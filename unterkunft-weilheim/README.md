@@ -18,12 +18,13 @@ Die Unterkunft besteht aus zwei zweistöckigen Häusern am Stadtrand von Weilhei
 Zwei Häuser: Hausnummer 59 und 61.
 
 * Eine Richtfunkantenne zum Schloss in der Küche HS 59
+
 * [ffs-Tue-UW-unifi-2](ffs-Tue-UW-unifi-2.sh) Unifi AP in der Küche HS 59
 * [ffs-Tue-UW-unifi-3](ffs-Tue-UW-unifi-3.sh) Unifi AP im Gemeinschaftsraum des Ak HS 59
 * [ffs-Tue-UW-unifi-4](ffs-Tue-UW-unifi-4.sh) Unifi AP im Fenster HS 61
 * [ffs-Tue-UW-unifi-1](ffs-Tue-UW-unifi-1.sh) Unifi AP im hinteren Teil HS 61
-* WR841N im EG HS 59
-
+* [ffs-Tue-UW59-841n-OG1Kche] in Küche 1. OG HS 59
+* [ffs-Tue-UW59-841n-EG] im EG HS 59
 
 
 ## Status
@@ -41,4 +42,11 @@ Stefan und Justin haben folgendes in der Unterkunft installiert:
 
 Die Meshverbindung könnte besser sein, aber "das Internet" scheint in den meisten Bereichen des Hauses anzukommen.
 
+### 09.07.2016
 
+Am 8.7. und 9.7. zweimal dagewesen. Die Richtfunkantenne gegen eine nanoBeam ausgetauscht. Die Richtfunkantenne aufs Dach verlegt. Zwei weitere 841 in Haus 59 installiert, um dorf alles abzudecken.
+
+Die Internetverbindung bricht immer noch viel ab. Die Schwachstelle ich jetzt aber die RF-Strecke von Südstadt zum Schloss. Belegbar durch: Ping von Weilheim zum Schloss: 0.2ms. Ping über Schloss zur Südstadt schwankte zwischen 6ms und 20ms.
+
+Es sind jetzt in allen drei RF-Antennen folgende Kanäle aktiviert, auch wenn 5500 weiterhin verwendet wird: 5500,5530+5535,5565+5570
+Das waren nach Analyse mit AirMax-Tool die freisten Kanäle für Weilheim<->Schlossberg
