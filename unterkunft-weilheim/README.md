@@ -48,5 +48,9 @@ Am 8.7. und 9.7. zweimal dagewesen. Die Richtfunkantenne gegen eine nanoBeam aus
 
 Die Internetverbindung bricht immer noch viel ab. Die Schwachstelle ich jetzt aber die RF-Strecke von Südstadt zum Schloss. Belegbar durch: Ping von Weilheim zum Schloss: 0.2ms. Ping über Schloss zur Südstadt schwankte zwischen 6ms und 20ms.
 
-Es sind jetzt in allen drei RF-Antennen folgende Kanäle aktiviert, auch wenn 5500 weiterhin verwendet wird: 5500,5530+5535,5565+5570
-Das waren nach Analyse mit AirMax-Tool die freisten Kanäle für Weilheim<->Schlossberg
+Es sind jetzt in allen drei RF-Antennen folgende Kanäle aktiviert, auch wenn 5500 weiterhin verwendet wird: 5500,5530,5535,5565,5570,5610,5615
+Das waren nach Analyse mit AirMax-Tool die freisten Kanäle für Weilheim<->Schlossberg<->Derendingen
+
+### 10.07.2016
+
+Ich war in Derendingen, aber die Antennenposition lässt sich dort nicht verbessern. Alle versuche alle Antennen auch 10Mhz ChannelWidth umzustellen (was mehr Robustheit bringen sollte) waren erfolglos. Als nächstes muss auf dem Schlossberg die Antennenausrichtung gecheckt werden. Ich denke die muss 1° nach links...
