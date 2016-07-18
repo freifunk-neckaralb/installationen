@@ -54,3 +54,10 @@ Das waren nach Analyse mit AirMax-Tool die freisten Kanäle für Weilheim<->Schl
 ### 10.07.2016
 
 Ich war in Derendingen, aber die Antennenposition lässt sich dort nicht verbessern. Alle versuche alle Antennen auch 10Mhz ChannelWidth umzustellen (was mehr Robustheit bringen sollte) waren erfolglos. Als nächstes muss auf dem Schlossberg die Antennenausrichtung gecheckt werden. Ich denke die muss 1° nach links...
+
+### 12.07.2016
+Die RF-Antenne in Weilheim hat sich auf den AP auf dem Schlossberg angemeldet, und nicht nach Derendingen. Das habe ich jetzt ausgeschlossen, indem ich die MAC von Derendingen in das Feld "Lock to AP" eingetragen habe.
+
+### 18.07.2016
+Es gab beim UPLINK in der letzten Woche öfters Ausfälle. Ich habe den Support angerufen und das soll behoben werden. Dem FF-Router habe ich einen CRON-Job eingetragen, dass er jede nacht um 4:15 rebootet. U.u. wäre ein Zeitschaluhr für den UPLINK-Router auch für 4am auch noch angebracht.
+

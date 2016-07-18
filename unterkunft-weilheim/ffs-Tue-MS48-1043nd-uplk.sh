@@ -15,6 +15,11 @@ uci set simple-tc.mesh_vpn.limit_ingress='7000'
 uci set simple-tc.mesh_vpn.limit_egress='1000'
 
 uci set network.mesh_wan.mesh_no_rebroadcast='0'
-uci set network.mesh_lan.mesh_no_rebroadcast='0'
+uci set network.mesh_lan.mesh_no_rebroadcast='1' # Wir machen ja Mesh-On-LAN nach Weilheim
+
+# Per Cron Nachts um 4:15 rebooten
+crontab -e
+# und dann diese Zeile einfuegen:      15 4 * * * reboot 
+
 
 uci commit && reboot
