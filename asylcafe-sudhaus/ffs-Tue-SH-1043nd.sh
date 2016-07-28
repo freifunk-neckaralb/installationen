@@ -20,4 +20,16 @@ uci set network.mesh_lan.mesh_no_rebroadcast='0'
 uci set network.mesh_lan.auto=1 # Mesh-On-LAN zur Pico
 uci set wireless.ibss_radio0.disabled=1 
 
+# privates wlan, Bitte PSK vor Anwendung durch echten Key austauschen
+uci set wireless.wan_radio0=wifi-iface
+uci set wireless.wan_radio0.device=radio0
+uci set wireless.wan_radio0.network=wan
+uci set wireless.wan_radio0.mode=ap
+uci set wireless.wan_radio0.encryption=psk2
+uci set wireless.wan_radio0.ssid="sudhaus-intern"
+uci set wireless.wan_radio0.key="$PSK"
+uci set wireless.wan_radio0.disabled=0
+uci commit
+wifi
+
 uci commit && reboot
