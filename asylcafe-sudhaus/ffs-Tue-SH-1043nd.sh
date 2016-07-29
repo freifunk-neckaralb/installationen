@@ -2,6 +2,14 @@
 
 # ssh fd21:b4dc:4b02:0:c66e:1fff:fe97:7956
 
+read -p 'Passwort für das Mitarbeiterwlan: ' PSK
+if [ -z "$PSK" ];
+  then
+	echo "Bitte das PSK angeben und erneut versuchen."
+	exit
+fi
+
+
 uci set system.@system[0].hostname='ffs-Tue-SH-1043nd'
 
 # geolocation
