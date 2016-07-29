@@ -4,11 +4,12 @@
 
 uci set system.@system[0].hostname='ffs-Tue-SH-1043nd'
 
-uci set gluon-node-info.@location[0]=location
+# geolocation
+uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
 uci set gluon-node-info.@location[0].altitude='350'
-uci set gluon-node-info.@location[0].latitude='48.5037770'
-uci set gluon-node-info.@location[0].longitude='9.05386582'
+uci set gluon-node-info.@location[0].latitude='48.500094310'
+uci set gluon-node-info.@location[0].longitude='9.065316617'
 
 uci set simple-tc.mesh_vpn.enabled='1'
 uci set simple-tc.mesh_vpn.limit_ingress='7000'
