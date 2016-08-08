@@ -28,9 +28,10 @@ uci set wireless.ibss_radio0.disabled='0' # Mesh über Radio ist an, kann aus ge
 # Geolocation
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
-uci set gluon-node-info.@location[0].latitude='48.500179915'
-uci set gluon-node-info.@location[0].longitude='9.065249115'
 uci set gluon-node-info.@location[0].altitude='360'
+uci set gluon-node-info.@location[0].latitude='48.500039214'
+uci set gluon-node-info.@location[0].longitude='9.065343440'
+
 
 # Rebroadcast, empfohlene Einstellung wenn Mesh über Kabel
 #uci set network.mesh_wan.mesh_no_rebroadcast='1' #WAN off
