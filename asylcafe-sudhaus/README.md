@@ -10,6 +10,8 @@ Es soll ein Aufenthaltsraum, sowie ein 40m weit erntfernter Platz mit Sitzgelege
 
 28.07.2016: Auf dem 1043 privates wlan angemacht. SSID ist sudhaus-intern, key hat Justin. Keine Störungen beobachten können.
 
+12.08.2016: Abrechnung über 222,15€ rausgeschickt...
+
 ### Hardware und Kostenplanung Ensprechend Plaungsmail vom 17.3.16 von alfonx: 
 
 Ich habe hochwertige AccessPoints (AP) für Biergarten und A.-Raum gewählt. So sollte erstmal kein 3. Accesspoint nötig sein. Eine spätere Erweiterung für die asphaltierten Flächen nach Westen ist für 70€ möglich.
@@ -50,6 +52,3 @@ SUMME:
 
 dazu ca. 20€ Strom pro Jahr.
 
-
-
-## Setup
