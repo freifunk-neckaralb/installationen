@@ -1,5 +1,10 @@
-Büro 1043er UPlink
+
+################# Büro 1043er UPlink
 uci set system.@system[0].hostname='ffs-Tue-Lamm-1-UPLNK'
+
+uci set gluon-node-info.@owner[0]='owner'
+uci set gluon-node-info.@owner[0].contact='anfragen@freifunk-tuebingen.de'
+
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
 uci set gluon-node-info.@location[0].latitude='48.52050791155178'
@@ -11,16 +16,26 @@ uci set fastd.mesh_vpn_backbone.peer_limit=2
 uci commit
 
 
-Lamm-2-MRKTFNSTR Picostation
-uci set system.@system[0].hostname='	'
+
+################# Lamm-2-MRKTFNSTR Picostation
+uci set system.@system[0].hostname='ffs-Tue-Lamm-2-MRKTFNSTR'
+
+uci set gluon-node-info.@owner[0]='owner'
+uci set gluon-node-info.@owner[0].contact='anfragen@freifunk-tuebingen.de'
+
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
 uci set gluon-node-info.@location[0].latitude='48.52046172080633'
 uci set gluon-node-info.@location[0].longitude='9.053806811598406'
 uci commit
 
-Stuhlkammer Unifi AP LR Etage von Großer Saal
+
+################# Stuhlkammer Unifi AP LR Etage von Großer Saal
 uci set system.@system[0].hostname='ffs-Tue-Lamm-3-STHLKMR'
+
+uci set gluon-node-info.@owner[0]='owner'
+uci set gluon-node-info.@owner[0].contact='anfragen@freifunk-tuebingen.de'
+
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
 uci set gluon-node-info.@location[0].latitude='48.52052212408037'
@@ -28,8 +43,12 @@ uci set gluon-node-info.@location[0].longitude='9.053828269270525'
 uci commit
 
 
-Küche unten neben Kleiner Saal, Unifi AP
+################# Küche unten neben Kleiner Saal, Unifi AP
 uci set system.@system[0].hostname='ffs-Tue-Lamm-4-KUECHE-EG'
+
+uci set gluon-node-info.@owner[0]='owner'
+uci set gluon-node-info.@owner[0].contact='anfragen@freifunk-tuebingen.de'
+
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
 uci set gluon-node-info.@location[0].latitude='48.52058963353667'
@@ -39,6 +58,10 @@ uci commit
 
 841er um Von Stuhlkammer zu Küche im EG zu kommen..
 uci set system.@system[0].hostname='ffs-Tue-Lamm-5-GRSAAL-1OG'
+
+uci set gluon-node-info.@owner[0]='owner'
+uci set gluon-node-info.@owner[0].contact='anfragen@freifunk-tuebingen.de'
+
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
 uci set gluon-node-info.@location[0].latitude='48.520603846042306'
