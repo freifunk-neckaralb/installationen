@@ -1,0 +1,20 @@
+
+Asmara Bar 1043 Uplink
+
+# Zwei Gateways kontaktieren
+uci set fastd.mesh_vpn_backbone.peer_limit=1
+
+uci set gluon-node-info.@location[0]='location'
+uci set gluon-node-info.@location[0].share_location='1'
+uci set gluon-node-info.@location[0].latitude='48.52020944753038'
+uci set gluon-node-info.@location[0].longitude='9.055072814253435'
+
+uci set system.@system[0].hostname='ffs-Tue-Asmara-UPLNK'
+
+uci set gluon-node-info.@owner[0]='owner'
+uci set gluon-node-info.@owner[0].contact='anfragen@freifunk-tuebingen.de'
+
+uci commit
+
+
+
