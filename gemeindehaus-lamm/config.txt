@@ -5,10 +5,10 @@ uci set system.@system[0].hostname='ffs-Tue-Lamm-1-UPLNK'
 uci set gluon-node-info.@owner[0]='owner'
 uci set gluon-node-info.@owner[0].contact='anfragen@freifunk-tuebingen.de'
 
-uci set gluon-node-info.@location[0]='location'
-uci set gluon-node-info.@location[0].share_location='1'
-uci set gluon-node-info.@location[0].latitude='48.52050791155178'
-uci set gluon-node-info.@location[0].longitude='9.053661972311602'
+uci set gluon-node-info.@location[0]='location'; 
+uci set gluon-node-info.@location[0].share_location='1';
+uci set gluon-node-info.@location[0].latitude='48.520480967';
+uci set gluon-node-info.@location[0].longitude='9.053855538';
 
 # Verbindung mit 2 Gateways für etwas mehr Robustheit bis ein weiterer Uplink im Mesh existiert...
 uci set fastd.mesh_vpn_backbone.peer_limit=2
