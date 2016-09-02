@@ -10,6 +10,7 @@ Im kleinen Weilheimer Gemeindehaus und auf dem Vorplatz der Kirche soll Freifunk
 * [ffs-tue-gemeindehaus-weilheim-1043](ffs-tue-gemeindehaus-weilheim-1043.sh) Ein 1043 als Offloader im Büro, direkt neben der fritzbox
 * [ffs-tue-gemeindehaus-weilheim-unifi-1](ffs-tue-gemeindehaus-weilheim-unifi-1.sh) Unifi AP LR im Büro des Pfarrers, auf dem linken der drei Fenster waagrecht auf der Fensterbank liegend
 * [ffs-tue-gemeindehaus-weilheim-unifi-2](ffs-tue-gemeindehaus-weilheim-unifi-2.sh) Unifi AP LR im Gemeindehaus mit MeshOnRadio im 1OG in der Decke des rechten Dachfensters festgeklebt.
+* Nanostation loco M5 [weilheim-kirchturm-to-unterkunft](XW-44D9E7B4E079.cfg) Station mode 192.168.1.37
 
 ## Status
 ###11.05.2016
@@ -26,3 +27,6 @@ Die Fritzbox im Gemeindehaus hat leider alle Eingänge belegt, deswegen bei der 
 
 ### 08.06.2016
 Florian und Justin haben die geplante Rouerkonstellation installiert. Unifi-2 scheint wieder offline zu sein, evtl hat da was am Kabel gewackelt.
+
+### 02.09.2016
+Stefan und Justin haben Weilheim Unterkunft und Weilheim Gemeindehaus mit Richtfunk verbunden.

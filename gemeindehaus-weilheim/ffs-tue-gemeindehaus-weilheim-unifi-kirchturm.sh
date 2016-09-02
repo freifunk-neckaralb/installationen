@@ -43,8 +43,8 @@ uci commit wireless
 # Geolocation
 uci set gluon-node-info.@location[0]='location'
 uci set gluon-node-info.@location[0].share_location='1'
-uci set gluon-node-info.@location[0].latitude='48.48995241961119'
-uci set gluon-node-info.@location[0].longitude='9.031700044897661'
+uci set gluon-node-info.@location[0].latitude='48.489980566'
+uci set gluon-node-info.@location[0].longitude='9.031805098'
 uci commit
 
 # Rebroadcast, empfohlene Einstellung

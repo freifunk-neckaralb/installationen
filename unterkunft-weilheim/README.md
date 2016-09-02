@@ -25,9 +25,8 @@ Zwei Häuser: Hausnummer 59 und 61.
 * [ffs-Tue-UW-unifi-1](ffs-Tue-UW-unifi-1.sh) Unifi AP im hinteren Teil HS 61
 * [ffs-Tue-UW59-841n-OG1Kche] in Küche 1. OG HS 59
 * [ffs-Tue-UW59-841n-EG] im EG HS 59
-
-* Nanostation loco M5 [weilheim-kirchturm-to-unterkunft](XW-44D9E7B4E079.cfg) Station mode 192.168.1.37
 * Nanostation loco M5 [weilheim-unterkunft-to-kirchturm](XW-0418D6EADDDB.cfg) AP mode 192.168.1.38
+
 
 
 ## Status
@@ -68,3 +67,5 @@ Es gab beim UPLINK in der letzten Woche öfters Ausfälle. Ich habe den Support 
 Eine RF vom Kirchturm am Gemeindehaus Weilheim zur Unterkunft soll gelegt werden.
 Folgende RF-Antennen:
 
+### 02.09.2016
+Stefan und Justin haben Weilheim Unterkunft und Weilheim Gemeindehaus mit Richtfunk verbunden.
