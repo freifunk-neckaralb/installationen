@@ -26,6 +26,9 @@ Zwei Häuser: Hausnummer 59 und 61.
 * [ffs-Tue-UW59-841n-OG1Kche] in Küche 1. OG HS 59
 * [ffs-Tue-UW59-841n-EG] im EG HS 59
 
+* Nanostation loco M5 [weilheim-kirchturm-to-unterkunft](XW-44D9E7B4E079.cfg) Station mode 192.168.1.37
+* Nanostation loco M5 [weilheim-unterkunft-to-kirchturm](XW-0418D6EADDDB.cfg) AP mode 192.168.1.38
+
 
 ## Status
 ### 11.05.2016
@@ -60,4 +63,8 @@ Die RF-Antenne in Weilheim hat sich auf den AP auf dem Schlossberg angemeldet, u
 
 ### 18.07.2016
 Es gab beim UPLINK in der letzten Woche öfters Ausfälle. Ich habe den Support angerufen und das soll behoben werden. Dem FF-Router habe ich einen CRON-Job eingetragen, dass er jede nacht um 4:15 rebootet. U.u. wäre ein Zeitschaluhr für den UPLINK-Router auch für 4am auch noch angebracht.
+
+### 02.09.2016
+Eine RF vom Kirchturm am Gemeindehaus Weilheim zur Unterkunft soll gelegt werden.
+Folgende RF-Antennen:
 
